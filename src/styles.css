@@ -1,5 +1,5 @@
 html {
-  background: url('https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/blob/main/assets/background.png') no-repeat center center fixed;
+  background: url("https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/blob/main/assets/background.png?raw=true") no-repeat center center fixed;
   /* background: url('assets/background.png') no-repeat center center fixed; */
    box-sizing: border-box;
   -webkit-background-size: cover;
@@ -65,7 +65,7 @@ html {
             height: 120px;            
             position: relative;
             overflow: hidden;
-            cursor: url('https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/blob/main/assets/mallet.png'), auto;
+            cursor: url("https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/blob/main/assets/mallet.png?raw=true"), auto;
             
             display: block;
             /* background: url("/assets/hole.png") bottom center no-repeat; */
@@ -96,7 +96,7 @@ html {
         .mole {
             width: 70px;
             height: 70px;
-            background: url("https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/blob/main/assets/mole.png") no-repeat center center;
+            background: url("https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/blob/main/assets/mole.png?raw=true") no-repeat center center;
             background-size: 40%;
             transition: bottom 0.1s ease; /* Dynamic pop-up speed */
             /* background-color: #d2691e; */
