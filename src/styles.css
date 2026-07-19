@@ -65,7 +65,7 @@ html {
             height: 120px;            
             position: relative;
             overflow: hidden;
-            cursor: url('/assets/mallet.png'), auto;
+            cursor: url('https://github.com/Thinkful-Ed/js-dev-final-capstone-starter/blob/main/assets/mallet.png'), auto;
             
             display: block;
             /* background: url("/assets/hole.png") bottom center no-repeat; */
@@ -79,7 +79,7 @@ html {
         .hole:after {
             display: block;
             /*background: url("./assets/hole.png") bottom center no-repeat;*/
-            background: url("/assets/hole.png?raw=true") bottom center no-repeat;
+            background: url("https://github.com/Thinkful-Ed/js-dev-final-capstone-starter/blob/main//assets/hole.png?raw=true") bottom center no-repeat;
             background-size:contain;
             content:'';
             width: 100%;
@@ -97,7 +97,7 @@ html {
         .mole {
             width: 70px;
             height: 70px;
-            background: url("/assets/mole.png") no-repeat center center;
+            background: url("https://github.com/Thinkful-Ed/js-dev-final-capstone-starter/blob/main//assets/mole.png") no-repeat center center;
             background-size: 40%;
             transition: bottom 0.1s ease; /* Dynamic pop-up speed */
             /* background-color: #d2691e; */
