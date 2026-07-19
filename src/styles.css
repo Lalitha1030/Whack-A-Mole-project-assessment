@@ -56,7 +56,7 @@ html {
             display: flex;
             flex-wrap: wrap;
             margin: 10px auto; /*https://github.com/Thinkful-Ed/js-dev-final-capstone-starter/blob/main*/
-            /* cursor: url('https://github.com/Thinkful-Ed/js-dev-final-capstone-starter/blob/main/assets/mallet.png'), auto; */
+            /* cursor: url('https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/tree/main/assets/mallet.png'), auto; */
             cursor: ponter;
             }
         /* Hole container hiding the mole overflow */
