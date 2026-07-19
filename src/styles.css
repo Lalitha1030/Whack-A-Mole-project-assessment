@@ -1,6 +1,5 @@
 html {
   background: url("https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/blob/main/assets/background.png?raw=true") no-repeat center center fixed;
-  /* background: url('assets/background.png') no-repeat center center fixed; */
    box-sizing: border-box;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -55,8 +54,7 @@ html {
             grid-template-columns: repeat(9, 120px);  
             display: flex;
             flex-wrap: wrap;
-            margin: 10px auto; /*https://github.com/Thinkful-Ed/js-dev-final-capstone-starter/blob/main*/
-            /* cursor: url('https://github.com/Lalitha1030/Whack-A-Mole-project-assessment/tree/main/assets/mallet.png'), auto; */
+            margin: 10px auto;           
             cursor: ponter;
             }
         /* Hole container hiding the mole overflow */
